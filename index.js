@@ -1,2 +1,2 @@
-let http = require('http');
-let fs = require('fs');
+const server = require('./modules/server');
+server.start();

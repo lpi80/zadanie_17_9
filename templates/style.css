@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+
+label {
+    color: blue;
+    font-weight: bold;
+}
+
+input {
+    border-radius: 5px;
+    background: yellow;
+}
