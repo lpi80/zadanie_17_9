@@ -1,15 +1,15 @@
 {
-  "name": "npm_lesson",
+  "name": "project",
   "version": "1.0.0",
   "description": "creat package.json",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lpi80/zadanie_17_5.git"
+    "url": "git+https://github.com/lpi80/zadanie_17_9.git"
   },
   "keywords": [
     "npm",
@@ -18,11 +18,12 @@
   "author": "LPI",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lpi80/zadanie_17_5/issues"
+    "url": "https://github.com/lpi80/zadanie_17_9/issues"
   },
-  "homepage": "https://github.com/lpi80/zadanie_17_5#readme",
+  "homepage": "https://github.com/lpi80/zadanie_17_9#readme",
   "dependencies": {
     "colors": "^1.3.3",
+    "formidable": "^1.2.1",
     "stat-mode": "^0.2.2"
   }
 }
